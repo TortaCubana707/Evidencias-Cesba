@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_cesba">#07346D</color>
+    <color name="primary_dark_cesba">#042046</color>
+    <color name="accent_orange">#FF6F0C</color>
+    <color name="accent_orange_hover">#E05D00</color>
+    <color name="bg_light">#F5F7FB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#555555</color>
+    <color name="status_pending">#E65100</color>
+    <color name="status_captured">#00695C</color>
+    <color name="status_saved">#2E7D32</color>
+    <color name="delete_red">#D32F2F</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

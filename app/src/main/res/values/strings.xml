@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Evidencias CESBA</string>
+    <string name="sub_title">Programación Móvil 1</string>
+    <string name="tomar_foto">TOMAR FOTOGRAFÍA</string>
+    <string name="tomar_otra_foto">TOMAR OTRA FOTO</string>
+    <string name="eliminar_foto">ELIMINAR FOTO</string>
+    <string name="guardar_evidencia">GUARDAR EVIDENCIA</string>
+    <string name="compartir_evidencia">COMPARTIR EVIDENCIA</string>
+    <string name="generar_ficha">GENERAR FICHA TÉCNICA</string>
+    <string name="ver_galeria">VER GALERÍA DE EVIDENCIAS</string>
+    <string name="titulo_evidencia">Título de la evidencia</string>
+    <string name="descripcion_evidencia">Descripción</string>
+    <string name="hint_titulo">Ej. Equipo de laboratorio</string>
+    <string name="hint_descripcion">Describe la evidencia detalladamente&#8230;</string>
+    <string name="estado_inicial">Estado: Sin fotografía capturada</string>
+    <string name="estado_capturada">Estado: Fotografía capturada correctamente</string>
+    <string name="estado_guardada">Estado: Evidencia guardada con éxito</string>
+    <string name="contador_fotografias">Evidencias guardadas: %d</string>
+    <string name="fecha_captura">Fecha: %s</string>
+    <string name="fecha_vacia">Fecha: &#8208;&#8208;/&#8208;&#8208;/&#8208;&#8208;&#8208;&#8208;</string>
+    <string name="hora_captura">Hora: %s</string>
+    <string name="hora_vacia">Hora: &#8208;&#8208;:&#8208;&#8208;:&#8208;&#8208;</string>
+    <string name="galeria_titulo">Galería de Evidencias</string>
+    <string name="galeria_total_singular">Total: 1 evidencia</string>
+    <string name="galeria_total_plural">Total: %d evidencias</string>
+</resources>
